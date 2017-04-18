@@ -1,0 +1,27 @@
+{
+  "name": "topotru/pheeltrator-phalcon",
+  "description": "pheeltrator-phalcon",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "topot",
+      "email": "topotru@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TopoTrue\\Pheeltrator\\": "src/Pheeltrator/"
+    }
+  },
+  "require": {
+    "phalcon/devtools": "~3.1",
+    "phalcon/incubator": "^3.1",
+    "topotru/pheeltrator": "^1.0"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/topotru/pheeltrator"
+    }
+  ]
+}
