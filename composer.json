@@ -16,7 +16,7 @@
   "require": {
     "phalcon/devtools": "~3.1",
     "phalcon/incubator": "^3.1",
-    "topotru/pheeltrator": "~1.0"
+    "topotru/pheeltrator": "^1.0.0"
   },
   "repositories": [
     {
