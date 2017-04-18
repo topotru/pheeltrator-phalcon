@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d5c9d01678e1b3b4c9727da35db7f3c",
+    "content-hash": "47565cdeba5e7683fa27281d019654e5",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -721,11 +721,11 @@
         },
         {
             "name": "topotru/pheeltrator",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/topotru/pheeltrator",
-                "reference": "8e236cbfc564c0db62d1865f85e905b35b5476b4"
+                "reference": "53ecb1e6067a10caf4b40f72242e48b658645d14"
             },
             "type": "library",
             "autoload": {
@@ -743,7 +743,7 @@
                 }
             ],
             "description": "pheeltrator",
-            "time": "2017-04-18T11:32:00+00:00"
+            "time": "2017-04-18T12:32:23+00:00"
         }
     ],
     "packages-dev": [],
